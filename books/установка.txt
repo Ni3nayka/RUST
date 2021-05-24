@@ -1,0 +1,8 @@
+онлайн компилятор:
+https://play.rust-lang.org/
+
+сайт с консольным установщиком rust в винду:
+https://www.rust-lang.org/ru/learn/get-started
+
+
+
