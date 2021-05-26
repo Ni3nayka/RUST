@@ -1,8 +1,16 @@
 онлайн компилятор:
 https://play.rust-lang.org/
 
+видео, от которого я плясал:
+https://www.youtube.com/watch?v=TikuPOpL4Fs
+
 сайт с консольным установщиком rust в винду:
 https://www.rust-lang.org/ru/learn/get-started
 
+при ошибке обновить драйвер vs visual c++ (2019) и ссылка:
+https://stackoverflow.com/questions/55603111/unable-to-compile-rust-hello-world-on-windows-linker-link-exe-not-found
+
+еще установщик (мне не помогло):
+https://rustup.rs/
 
 

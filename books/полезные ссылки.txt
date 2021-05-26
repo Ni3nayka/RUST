@@ -1,5 +1,6 @@
 https://www.codewars.com/
 лекции Кладова: https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e
 книга "Клабник, Николс: Программирование на Rust. Официальный гайд"
+видосики и презенташки: https://compscicenter.ru/courses/rustprogramming/2019-spring/classes/4445/
 
 ресёч - исследование (макулатурка для маркетинга)
