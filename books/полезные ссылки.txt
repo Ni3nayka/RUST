@@ -4,3 +4,6 @@ https://www.codewars.com/
 видосики и презенташки: https://compscicenter.ru/courses/rustprogramming/2019-spring/classes/4445/
 
 ресёч - исследование (макулатурка для маркетинга)
+
+мои полезные ссылки:
+https://habr.com/ru/post/232829/
