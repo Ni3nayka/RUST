@@ -14,7 +14,7 @@ fn main() {
 //======================================================================================================================================
 
 fn prime_factors(n: i64) -> String {
-    let mut N = n;
+    /*let mut N = n;
     println!("{}", N);
     let mut i = 2;
     while (N>1) {
@@ -26,5 +26,6 @@ fn prime_factors(n: i64) -> String {
         println!("{}", i, "{}", ii);
     }
     let a = "1234";
-    a.to_string()
+    a.to_string()*/
+
 }
