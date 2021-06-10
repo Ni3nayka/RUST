@@ -4,7 +4,7 @@ fn main() {
     let n:u32 = 100;
     println!("answer: {}", dbl_linear(n));
 }
-
+ 
 fn add(mas: &mut [i32], n: usize, counter: i32) {
     let mut i: usize = 0;
     while (mas[i+1]>0) { i+=1; }

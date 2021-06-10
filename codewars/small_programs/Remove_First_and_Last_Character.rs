@@ -1,4 +1,5 @@
-https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/rust
+//https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/rust
+use std::io;
 
 fn main() {
     let n: &str = "qwerty";
