@@ -1,3 +1,3 @@
 print("Hello")
-a = input()
+a = "qwerty" #input()
 print("test", a)
