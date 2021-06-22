@@ -1,12 +1,12 @@
 use pyo3::prelude::*;
 use pyo3::wrap_pyfunction; /// Formats the sum of two numbers as string.
 
-fn main() {
+/*fn main() {
     let n = "qwerty";
     println!("rust lib main");
     //print("answer {}", );
     sum_as_string(1,2);
-}
+}*/
 
 /// Formats the sum of two numbers as string.
 #[pyfunction]
