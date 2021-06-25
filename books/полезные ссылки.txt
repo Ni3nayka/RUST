@@ -7,3 +7,28 @@ https://www.codewars.com/
 
 мои полезные ссылки:
 https://habr.com/ru/post/232829/
+
+======================================================================
+
+
+RUST
+
+https://jitsi.optim.moscow/LearningRust
+
+
+git desktop
+
+tortoise git
+
+
+ лиенты:
+
+https://tortoisegit.org/
+
+https://www.gitkraken.com/
+
+https://githowto.com/ru    - нет
+
+ нига по гиту:
+
+https://git-scm.com/book/ru/v2
