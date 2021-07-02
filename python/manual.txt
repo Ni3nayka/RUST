@@ -1,0 +1,11 @@
+info:
+https://pyo3.rs/v0.13.2/
+https://github.com/PyO3/pyo3#using-rust-from-python
+https://doc.rust-lang.ru/book/ch14-03-cargo-workspaces.html
+
+1) create folder "lib_pyo3"
+2) create file "lib_pyo3\Cargo.toml"
+3) create file "lib_pyo3\src\lib_pyo3.rs"
+4) open cmd (win+R):
+  4.1) cd C:\Users\Ni3na\Documents\GitHub\RUST\python\lib_pyo3
+  4.2) cargo build --release
