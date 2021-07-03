@@ -9,3 +9,4 @@ https://doc.rust-lang.ru/book/ch14-03-cargo-workspaces.html
 4) open cmd (win+R):
   4.1) cd C:\Users\Ni3na\Documents\GitHub\RUST\python\lib_pyo3
   4.2) cargo build --release
+5) rename "string_sum.dll" in "string_sum.pyd"

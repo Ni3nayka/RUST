@@ -2,7 +2,7 @@
 name = "lib_pyo3" #string-sum
 version = "0.1.0"
 #authors = ["Ni3nayka <egor_bakay@inbox.ru>"]
-#edition = "2021"
+edition = "2018"
 
 [lib]
 name = "string_sum"
