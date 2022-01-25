@@ -1,0 +1,7 @@
+rust:
+https://www.rust-lang.org/ru/tools/install
+tools:
+https://stackoverflow.com/questions/40504552/how-to-install-visual-c-build-tools
+extensions for Visual studio:
+rust analyzer
+russian language
